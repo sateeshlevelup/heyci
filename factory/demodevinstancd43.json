@@ -1,0 +1,9 @@
+{
+	"name": "demodevinstancd43",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "be2f56d9-b661-4c19-be12-9aae537e04cd",
+		"tenantId": "50235424-9b7a-45f5-a0b8-87b31ae4fc43"
+	}
+}
